@@ -1,0 +1,10 @@
+{
+    "User":
+    {
+        "Name":"",
+        "Address":"",
+        "Phone":"",
+        "DOB":"",
+        "Favorites":[]
+    }
+}
