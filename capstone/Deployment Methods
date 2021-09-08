@@ -1,0 +1,14 @@
+Backend Platform Options:
+1. Deploy using GCP on Google cloud
+2. Deploy on AWS
+
+Backend Framework Options:
+1. Flask
+2. Django
+3. PHP 
+4. PyCharm
+
+Front end-
+1. Basic HTML based website
+2. Wordpress front end communicating with Framework Backend
+3. Flask and Nginx hosted Frontend.
