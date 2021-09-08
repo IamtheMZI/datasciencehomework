@@ -1,0 +1,832 @@
+{
+  "Intents": [
+    {
+      "Question": "Hi",
+      "Answer": "Hello!"
+    },
+    {
+      "Question": "How are you?",
+      "Answer": "I am good! How about you?"
+    }, 
+    {
+      "Question": "What are you doing?",
+      "Answer": "Not much. Training to speak like a human."
+    }, 
+    {
+      "Question": "How many people are there in your family?",
+      "Answer": "There are 5 people in my family: my father, mother, brother, sister, and me."
+    },
+    {
+      "Question": "Does your family live in a house or an apartment?",
+      "Answer": "We live in a house in the countryside."
+    },
+    {
+      "Question": "What does your father do?",
+      "Answer": "My father is a doctor. He works at the local hospital."
+    },
+    {
+      "Question": "How old is your mother?",
+      "Answer": "She is 40 years old, 1 year younger than my father."
+    },
+    {
+      "Question": "Do you have any siblings? What’s his/her name?",
+      "Answer": "Yes, I do. I have 1 elder brother, David, and 1 younger sister, Mary."
+    },
+    {
+      "Question": "Are you the oldest amongst your brothers and sisters?",
+      "Answer": "No, I’m not. I’m the second child in my family."
+    },
+    {
+      "Question": "What does your mother/father like?",
+      "Answer": "My father likes playing football and my mother likes cooking."
+    },
+    {
+      "Question": "Do your parents let you stay out late?",
+      "Answer": "Of course not. They always ask me to get home before 10 pm each night."
+    },
+    {
+      "Question": "Do you stay with your parents?",
+      "Answer": "Right now, no, but I used to."
+    },
+    {
+      "Question": "Does your family usually have dinner together?",
+      "Answer": "Yes, we do. My mom always prepares delicious meals for us."
+    },
+    {
+      "Question": "How often do you eat out? Who do you go with?",
+      "Answer": "I often eat out on weekends, when I hang out with my friends."
+    },
+    {
+      "Question": "What restaurant do you usually visit?",
+      "Answer": "Well, there are not many restaurants in my neighborhood, so my best choice is the deli in convenient stores like the Circle K, Mini-Stop, B-smart."
+    },
+    {
+      "Question": "What type of food do you enjoy to eat? Western or Asian?",
+      "Answer": "I’m interested in Asian food, Western food is not my thing."
+    },
+    {
+      "Question": "How much do you usually pay when you eat out?",
+      "Answer": "It’s not very expensive, just around $5 for each meal."
+    },
+    {
+      "Question": "Do you enjoy spicy food?",
+      "Answer": "Yes, I do, especially on cold days."
+    },
+    {
+      "Question": "Are the servers there friendly to you?",
+      "Answer": "Yes, they are. Most of them are really helpful."
+    },
+    {
+      "Question": "Have you ever tried Italian food?",
+      "Answer": "Yes, at least once, when I was in my friend’s wedding party."
+    },
+    {
+      "Question": "Are you concerned about calories when eating out?",
+      "Answer": "Yes, I am. I’m on diet now, so this really matters to me."
+    },
+    {
+      "Question": "Are fast food restaurants like KFC or McDonald’s famous in your country?",
+      "Answer": "Yes, they are. The youth in my country are big fans of fast food."
+    },
+    {
+      "Question": "Do you often drink alcohol when eating out?",
+      "Answer": "No, not often. Just when I have parties with my friends."
+    },
+    {
+      "Question": "How often do you read books?",
+      "Answer": "I read books almost every night before I go to bed."
+    },
+    {
+      "Question": "What’s your favorite type of book?",
+      "Answer": "I love reading about different cultures."
+    },
+    {
+      "Question": "What can you learn from books?",
+      "Answer": "Books can broaden my horizon about thousands of things around the world, and books are also my best friends."
+    },
+    {
+      "Question": "Where do you read books?",
+      "Answer": "I read books at home, sometimes in the library."
+    },
+    {
+      "Question": "What’s the most interesting book you have ever read?",
+      "Answer": "I think that would be Nepal, a book written about the country of Nepal, published in 1999."
+    },
+    {
+      "Question": "How long does it take you to finish a book?",
+      "Answer": "Well, it depends on the length of the book, but it usually takes me a week to finish a 300-page book."
+    },
+    {
+      "Question": "Do you usually bring books with you when you travel?",
+      "Answer": "Yes, I do. When I’m at the airport or bus station, I read books to kill time."
+    },
+    {
+      "Question": "Is there any bookstore or library in your area?",
+      "Answer": "Unfortunately, there are none near my house. The nearest one is 3 kilometers away."
+    },
+    {
+      "Question": "How many places have you traveled to?",
+      "Answer": "I’ve visited all the provinces throughout my country."
+    },
+    {
+      "Question": "Who do you usually go with?",
+      "Answer": "I often go with my family, sometimes with my best friends."
+    },
+    {
+      "Question": "What’s your favorite tourist attraction?",
+      "Answer": "That would be Venice city in Italy. I love riding the gondola along the canals while watching Italian people live their daily lives."
+    },
+    {
+      "Question": "Have you ever been abroad?",
+      "Answer": "Yes, I have. I came to Italy last year for a business trip."
+    },
+    {
+      "Question": "What language do you use when traveling?",
+      "Answer": "English, but sometimes I have to use body language since not all people are good at English."
+    },
+    {
+      "Question": "What do you usually do during your trip?",
+      "Answer": "I often go sightseeing, take pictures, mingle with the local people and sample the local cuisine."
+    },
+    {
+      "Question": "What do you do to prepare for your trip?",
+      "Answer": "Before the trip, I search for information about the location, weather, famous tourist attractions, transportation, local cuisine and prices on the internet."
+    },
+    {
+      "Question": "What do you usually bring when you travel?",
+      "Answer": "I usually pack my suitcase with some necessary items such as clothes, medicine, food, a map, and a camera."
+    },
+    {
+      "Question": "Do you prefer traveling by car, train or plane?",
+      "Answer": "I prefer planes although it can be a little expensive. Planes are much faster than any other mode of transport."
+    },
+    {
+      "Question": "Do you prefer traveling alone or joining a guided tour?",
+      "Answer": "I love backpacking with my friends who share the same interests as me."
+    },
+    {
+      "Question": "What type of websites do you often search for?",
+      "Answer": "It varies depending on my goal. I prefer entertainment and education websites such as facebook.com, wikipedia.org and VOA Special English."
+    },
+    {
+      "Question": "How long have you been using them?",
+      "Answer": "I have been using these websites since I was a freshman at university."
+    },
+    {
+      "Question": "What do you visit those websites for?",
+      "Answer": "I use them to study online or relax after working."
+    },
+    {
+      "Question": "What’s your favorite website?",
+      "Answer": "I think it’s probably youtube.com."
+    },
+    {
+      "Question": "Can you read websites in English?",
+      "Answer": "Yes, I can. Most useful websites are written in English."
+    },
+    {
+      "Question": "What’s the most popular website in your country?",
+      "Answer": "I’m not quite sure, but I guess it would be facebook.com."
+    },
+    {
+      "Question": "Do you think the youth should use websites as a reliable source of knowledge?",
+      "Answer": "Not always, they should choose their sources carefully."
+    },
+    {
+      "Question": "Have you ever been in any traffic accident?",
+      "Answer": "Yes, three years ago."
+    },
+    {
+      "Question": "What happened?",
+      "Answer": "I was hit by a car while crossing the road."
+    },
+    {
+      "Question": "How did you feel then?",
+      "Answer": "I felt really terrible because of my injuries."
+    },
+    {
+      "Question": "Who was involved in the accident?",
+      "Answer": "The car driver, his family (inside the car), and me."
+    },
+    {
+      "Question": "Did the insurance company pay for repair service?",
+      "Answer": "I was walking so I did not require any car repair services."
+    },
+    {
+      "Question": "Did you need a lawyer?",
+      "Answer": "I hurt my lower back just a little, so I didn’t call a lawyer."
+    },
+    {
+      "Question": "Did you report the issue to the police?",
+      "Answer": "No, we didn’t want to get the police involved."
+    },
+    {
+      "Question": "Were you sent to the hospital after the accident?",
+      "Answer": "No, the injury wasn’t really serious."
+    },
+    {
+      "Question": "Do you have a driving license?",
+      "Answer": "Yes, I do. I always keep it in my purse."
+    },
+    {
+      "Question": "Why should people obey traffic regulations?",
+      "Answer": "To protect themselves and others. The best ways are to wear a helmet, wait for traffic lights and stay in the appropriate vehicle/pedestrian lanes."
+    },
+    {
+      "Question": "Did you have a happy childhood?",
+      "Answer": "Yes, I did. I enjoyed playing hide and seek with my peers."
+    },
+    {
+      "Question": "Did you experience your childhood in a city or countryside?",
+      "Answer": "I spent my childhood in a rural area where I could see vast rice fields."
+    },
+    {
+      "Question": "Did you usually skip class when you were a child?",
+      "Answer": "Yes, I did, and many of my friends did, too."
+    },
+    {
+      "Question": "Who were you with when you were a child?",
+      "Answer": "I was with my beloved family."
+    },
+    {
+      "Question": "What did you want to be when you were a child?",
+      "Answer": "I dreamed of being a fashion designer."
+    },
+    {
+      "Question": "Who did you love the most when you were a child?",
+      "Answer": "I loved my mom the most since she was always there and took care of me."
+    },
+    {
+      "Question": "Who was your childhood hero?",
+      "Answer": "Robin Hood, he took money from the rich and gave it to the poor."
+    },
+    {
+      "Question": "What reminds you of your childhood?",
+      "Answer": "Green rice fields which I happen to see everywhere remind me of my beautiful childhood."
+    },
+    {
+      "Question": "Did you change a lot when you grew up?",
+      "Answer": "Yes, of course. I’m more mature now both physically and mentally."
+    },
+    {
+      "Question": "Why is childhood important?",
+      "Answer": "Because it shapes people into who they will become."
+    },
+    {
+      "Question": "How many rooms are there in your house?",
+      "Answer": "There are 6 rooms: a living room, 2 bedrooms, a bathroom and a kitchen."
+    },
+    {
+      "Question": "Which floor is your bedroom on?",
+      "Answer": "My bedroom is on the first floor of a three-storey house."
+    },
+    {
+      "Question": "Is it big or small?",
+      "Answer": "It’s not very spacious, just enough to put necessary furniture in."
+    },
+    {
+      "Question": "What color is your bedroom painted?",
+      "Answer": "It’s painted pink, my favorite color."
+    },
+    {
+      "Question": "Do you love your room? Why?",
+      "Answer": "I love it very much because it is my private space whenever I go home."
+    },
+    {
+      "Question": "What furniture does your bedroom contain?",
+      "Answer": "It contains a bed, a desk, and a clothing closet."
+    },
+    {
+      "Question": "What do you do in it?",
+      "Answer": "Well, I spend most of my free time there reading books and sleeping."
+    },
+    {
+      "Question": "How much time do you spend in your room?",
+      "Answer": "About 10 hours a day, especially in the evening."
+    },
+    {
+      "Question": "Do you share your room with anyone else?",
+      "Answer": "No, everyone in my family has their own room, so I stay there alone."
+    },
+    {
+      "Question": "What kind of presents are popular in your country?",
+      "Answer": "It depends on the receivers. For children, toys are the best choice. For youth, souvenirs are recommended."
+    },
+    {
+      "Question": "Who gave presents to you? On what occasions?",
+      "Answer": "I have received many presents, most of which were from my friends. They gave me gifts on my birthday."
+    },
+    {
+      "Question": "What was your last present?",
+      "Answer": "It was a hand-made doll, given by my best friend when I moved to another city."
+    },
+    {
+      "Question": "What was the one you like best?",
+      "Answer": "I loved my book Nepal a lot. It was given to me on my 23rd birthday by my brother."
+    },
+    {
+      "Question": "Did you ever get a present you didn’t like?",
+      "Answer": "Yes, I have, but I still treasure and take care of them."
+    },
+    {
+      "Question": "How do you thank people who give you presents?",
+      "Answer": "I gave them presents that they would like."
+    },
+    {
+      "Question": "What are the times of the year that people give presents in your country?",
+      "Answer": "Some special occasions are birthdays, weddings, graduation, New Year’s day, Valentine’s day, housewarming ceremonies, etc."
+    },
+    {
+      "Question": "Who was the last person you gave a present to?",
+      "Answer": "My mom, I bought her a coat on a business trip to Bangkok."
+    },
+    {
+      "Question": "Is giving presents important in daily life?",
+      "Answer": "Yes, it is. It’s one of the best ways to show your love and gratitude to someone."
+    },
+    {
+      "Question": "Which tourist attractions do you prefer when traveling? Historical places or natural landmarks?",
+      "Answer": "Well, historical places are always my first choice when traveling."
+    },
+    {
+      "Question": "What do you usually do when visiting historical places?",
+      "Answer": "I usually listen to the tour-guide introducing the sights and take notes about important historical events."
+    },
+    {
+      "Question": "Can you name some historical places you have visited?",
+      "Answer": "Whenever I travel to a foreign country, I always visit its famous historical places. Some of them are the Pyramids in Egypt, Angkor Wat in Cambodia, Stonehenge in England and the Taj Mahal in India."
+    },
+    {
+      "Question": "What’s your most favorite historical place? Why?",
+      "Answer": "I love the Pyramids the most. Taking a tour around the Pyramids, I can not only enjoy the gorgeous architecture but also learn cultural and historical values of the ancient Egyptian culture."
+    },
+    {
+      "Question": "What is the most famous historical place in your country?",
+      "Answer": "It’s definitely the Statue of Liberty in New York city."
+    },
+    {
+      "Question": "What’s special about it?",
+      "Answer": "The statue was gifted by the people of France. It is a symbol of freedom for the US as well as a welcoming sight to people coming to the US from another country."
+    },
+    {
+      "Question": "Where is it located?",
+      "Answer": "It’s located on Liberty island in New York Harbor, NYC."
+    },
+    {
+      "Question": "Should the youth visit historical places instead of other places?",
+      "Answer": "Sure. Nowadays the youth should visit these kind of places more often in order to preserve historical and cultural values of their country."
+    },
+    {
+      "Question": "What are the benefits of reading a newspaper/magazine?",
+      "Answer": "Newspapers/magazines can broaden your mind about thousands of things without the need to travel."
+    },
+    {
+      "Question": "How often do you read it?",
+      "Answer": "I read it every day."
+    },
+    {
+      "Question": "What’s the best time to read the newspaper?",
+      "Answer": "I think the best time is in the morning when you start a new day."
+    },
+    {
+      "Question": "What types of magazines do you usually read?",
+      "Answer": "I usually read politics and fashion magazines. I also enjoy reading about culture and tourism."
+    },
+    {
+      "Question": "What’s your favorite magazine?",
+      "Answer": "My favorite is The New York Times, which writes about all sorts of things: business, sports, movies, travel, books, jobs, education, and real estate."
+    },
+    {
+      "Question": "Do you read the paper or online news?",
+      "Answer": "I prefer online news to save money."
+    },
+    {
+      "Question": "How much does it cost you to buy paper newspaper per month?",
+      "Answer": "I only buy a monthly newspaper, so it doesn’t cost much money. Around $5/month."
+    },
+    {
+      "Question": "What is the most popular magazine in your country?",
+      "Answer": "I think it would be Forbes magazine, a leading source for reliable business news and financial information."
+    },
+    {
+      "Question": "With the popularity of Internet, do you think newspapers and magazines will disappear?",
+      "Answer": "Yes, unfortunately it’s just a matter of time."
+    },
+    {
+      "Question": "How many events have you joined this year? What were they about?",
+      "Answer": "I have joined more than 10 events so far, most of which were about education."
+    },
+    {
+      "Question": "What was your most memorable event?",
+      "Answer": "The most memorable for me was an international study conference, in which I was introduced to some famous universities in Europe to study overseas."
+    },
+    {
+      "Question": "Was it organized indoors or outdoors?",
+      "Answer": "It was an indoor event."
+    },
+    {
+      "Question": "Who sponsored the event?",
+      "Answer": "The event organizer was the Education Department of American Center, but the universities introduced in the conference were the ones who paid."
+    },
+    {
+      "Question": "Who went to the event with you?",
+      "Answer": "I went there with my friends, who shared the same interest in studying abroad as me."
+    },
+    {
+      "Question": "What were some performances in the event?",
+      "Answer": "There were not many performances. Each university representative just had a speech to introduce their school to students and then they hosted Q&A session."
+    },
+    {
+      "Question": "Was the event shown on TV?",
+      "Answer": "The event was not aired, but there were television advertisements for it."
+    },
+    {
+      "Question": "How would someone market an event?",
+      "Answer": "Taking advantage of social media is a smart way to promote an event."
+    },
+    {
+      "Question": "What subjects did you learn in school?",
+      "Answer": "I learned Math, Science, Physics, Biology, Geography, History, Literature, English, Art, and Music."
+    },
+    {
+      "Question": "What subject did you like the most when you were at school? Were you good at it?",
+      "Answer": "I liked Biology the most although I was excellent at Literature."
+    },
+    {
+      "Question": "Did your friends like that subject too?",
+      "Answer": "Yes, they did. They enjoyed every single Biology lesson."
+    },
+    {
+      "Question": "Was the textbook written in English or any other language?",
+      "Answer": "It was written in English."
+    },
+    {
+      "Question": "Who taught that subject?",
+      "Answer": "My teacher was Ms. Karen, from the USA."
+    },
+    {
+      "Question": "How was that subject helpful to you?",
+      "Answer": "It helped me a lot in becoming a Biology teacher."
+    },
+    {
+      "Question": "How often did you learn that subject?",
+      "Answer": "I often had Biology lessons 5 times a week."
+    },
+    {
+      "Question": "How long did you spend on that subject at home?",
+      "Answer": "I spent roughly 2 hours per day studying Biology at home."
+    },
+    {
+      "Question": "Have you ever attended any extra classes for that subject?",
+      "Answer": "Yes, I have. I usually attended evening classes."
+    },
+    {
+      "Question": "Is it important to study hard on both social sciences and natural sciences?",
+      "Answer": "No, it isn’t. Students should study the ones they like and those that are helpful to their career path."
+    },
+    {
+      "Question": "What type of museum is popular in your country?",
+      "Answer": "There are many types of museums, but the most popular are historical museums."
+    },
+    {
+      "Question": "What is the most famous museum in your country?",
+      "Answer": "That would be The British Museum, located in London."
+    },
+    {
+      "Question": "What’s special about it?",
+      "Answer": "I’m impressed by its large amount of historical, art, and cultural work."
+    },
+    {
+      "Question": "How many times have you visited that museum?",
+      "Answer": "I have visited the museum twice."
+    },
+    {
+      "Question": "What do you usually do when visiting a museum?",
+      "Answer": "I usually listen to the tour guide and take notes about important information."
+    },
+    {
+      "Question": "Are you allowed to take pictures there?",
+      "Answer": "No, the guards did not allow us to bring the camera in."
+    },
+    {
+      "Question": "How did you feel after visiting there?",
+      "Answer": "The overall experience was fantastic, and I learned so many things in just a few hours."
+    },
+    {
+      "Question": "What do you think is the importance of museums in history?",
+      "Answer": "Museums are an integral part of any country’s history, and they keep history alive."
+    },
+    {
+      "Question": "Do you usually watch movies at home or at a movie theater?",
+      "Answer": "I usually watch movies on my laptop, sometimes I go to the movie theater."
+    },
+    {
+      "Question": "Is watching movies at the theater more interesting than watching movies at home?",
+      "Answer": "Yes, definitely, because you can watch vivid images on a large screen with lively sound effects."
+    },
+    {
+      "Question": "How often do you go to the movie theater?",
+      "Answer": "I often go to the movie theater every weekend."
+    },
+    {
+      "Question": "What’s your favorite type of movie? What movie of that type do you like?",
+      "Answer": "My favorite type is comedy because whenever I watch one, I feel like there are no more worries in the world. I love the Mr.Bean movie series."
+    },
+    {
+      "Question": "Was that movie adapted from a book?",
+      "Answer": "No, the story is derived from funny situations in real life."
+    },
+    {
+      "Question": "Who are the actors/actresses in the movie?",
+      "Answer": "Mr. Bean is the main character, he is played by Rowan Atkinson who is from England."
+    },
+    {
+      "Question": "Was it recommended by your friend, teacher or family?",
+      "Answer": "It was recommended by my classmate."
+    },
+    {
+      "Question": "Was the movie in your mother language or in English?",
+      "Answer": "It was in English, but I can also watch it with subtitles."
+    },
+    {
+      "Question": "Should children watch violent movies?",
+      "Answer": "I don’t believe so. Young children are very impressionable and it could lead them to wanting to imitate the behavior."
+    },
+    {
+      "Question": "What’s the most important factor of a great movie?",
+      "Answer": "I believe that plot and actors are among the factors which decide the success of a movie."
+    },
+    {
+      "Question": "Have you ever travelled abroad? If yes, what country was it?",
+      "Answer": "Yes, I have. I traveled to the USA last year with my family."
+    },
+    {
+      "Question": "Where is that country located?",
+      "Answer": "The USA is located in North America."
+    },
+    {
+      "Question": "What is it famous for?",
+      "Answer": "The USA is known for its cultural achievements and landmarks."
+    },
+    {
+      "Question": "What are the special food and drinks of that country?",
+      "Answer": "There are many. They are known for fast food, dairy, and many beverages."
+    },
+    {
+      "Question": "What do you like about that country?",
+      "Answer": "I like the fast pace of life and the various sub-cultures."
+    },
+    {
+      "Question": "How many citizens are there in that country?",
+      "Answer": "The current population of the United States of America was over 324 million in 2016, which accounts for 4.3% of the total world population."
+    },
+    {
+      "Question": "What language do people there speak?",
+      "Answer": "The national language is English, but many people also speak Spanish, French, German, and Chinese."
+    },
+    {
+      "Question": "Do you want to go back there again?",
+      "Answer": "Sure."
+    },
+    {
+      "Question": "Why do people like to travel abroad?",
+      "Answer": "They just want to discover new places, learn new cultures and maybe speak new languages."
+    },
+    {
+      "Question": "On what occasions do people in your country celebrate parties?",
+      "Answer": "There are many occasions when people throw parties such as New Year’s eve, wedding engagments, family reunions, birthdays, etc, but sometimes people hold parties just when they meet up and want to have something fun to do."
+    },
+    {
+      "Question": "Are you a party animal?",
+      "Answer": "Yes, I am. I’m crazy about going to parties. I love meeting friends, drinking, and talking."
+    },
+    {
+      "Question": "When do parties often start and finish?",
+      "Answer": "It depends on what kind of party it is. I believe the perfect time to have a party is in the evening, from 8-11 pm."
+    },
+    {
+      "Question": "Where are the parties thrown?",
+      "Answer": "They are held inside or outside. Some formal events like weddings/housewarmings are organized inside while others like family reunions and birthdays may be held outside."
+    },
+    {
+      "Question": "What do you usually wear when you come to a party?",
+      "Answer": "I often wear casual clothes like a T-shirt and jeans if I go to informal parties, and a dress for formal ones."
+    },
+    {
+      "Question": "What do people do in the parties you attended?",
+      "Answer": "At the party, people talk, eat and drink together. Some go there to find business opportunities and new partners."
+    },
+    {
+      "Question": "Do you enjoy drinking alcohol at the parties?",
+      "Answer": "No, it's Haram."
+    },
+    {
+      "Question": "Do people have to bring anything to the party?",
+      "Answer": "It’s not required, but sometimes visitors bring some gifts to show their love for the host."
+    },
+    {
+      "Question": "Why do people, especially the youth, love going to parties?",
+      "Answer": "It’s just a good way for them to chill out after a long day."
+    },
+    {
+      "Question": "Who is your favorite teacher?",
+      "Answer": "I like Mr. Tom the most, he is my English teacher."
+    },
+    {
+      "Question": "Is he a foreign teacher?",
+      "Answer": "Yes, he’s from the US."
+    },
+    {
+      "Question": "What do you like about his lessons?",
+      "Answer": "I have fallen in love with his American accent and he always shows us something new about the world outside of textbooks."
+    },
+    {
+      "Question": "What’s he like?",
+      "Answer": "He’s not only knowledgeable but also very friendly. He always treats us like friends, not students."
+    },
+    {
+      "Question": "What does he usually wear when coming to class?",
+      "Answer": "He usually wears a gray suit when he comes to class."
+    },
+    {
+      "Question": "Do you love his subject?",
+      "Answer": "Yes, I enjoy English a lot."
+    },
+    {
+      "Question": "Do students in your class like him?",
+      "Answer": "Yes, all of us admire him."
+    },
+    {
+      "Question": "Do you want to be a teacher like him?",
+      "Answer": "No, although I like him, my dream is not to become a teacher. I would like to be a chef."
+    },
+    {
+      "Question": "Have you ever been punished by him?",
+      "Answer": "No, he rarely punishes anyone."
+    },
+    {
+      "Question": "Do you want to see him again?",
+      "Answer": "Of course, he’s a great mentor."
+    },
+    {
+      "Question": "Who’s your best friend?",
+      "Answer": "It’s Jenny. She’s my best friend."
+    },
+    {
+      "Question": "What does she look like?",
+      "Answer": "She has shoulder-length brown hair. I just love her lovely smile."
+    },
+    {
+      "Question": "How and when did you meet?",
+      "Answer": "I first met her when we were in high school."
+    },
+    {
+      "Question": "How often do you see this friend?",
+      "Answer": "I see her every day. We’re in the same class."
+    },
+    {
+      "Question": "What’s she like?",
+      "Answer": "She’s not only thoughtful but also very understanding. She’s always by my side to cheer me up whenever I’m in trouble."
+    },
+    {
+      "Question": "Do you and her share anything in common?",
+      "Answer": "Yes, a lot. We both love shopping and playing sports."
+    },
+    {
+      "Question": "What do you and her do together?",
+      "Answer": "We usually do homework and read books together."
+    },
+    {
+      "Question": "Have you and her ever quarreled?",
+      "Answer": "Yes, but we seldom quarrel. When we do argue, afterwards we seem to understand more about each other."
+    },
+    {
+      "Question": "Does she know how to cook?",
+      "Answer": "Yes, but she’s not a great cook."
+    },
+    {
+      "Question": "Do your parents like her?",
+      "Answer": "Yes, a lot. They always ask Jenny to come over for dinner."
+    },
+    {
+      "Question": "Why is a friend important in life?",
+      "Answer": "A good friend can make your life better in many ways. I don’t think anyone can stand loneliness."
+    },
+    {
+      "Question": "What is your favorite hotel? Where is it located?",
+      "Answer": "It’s the Sheraton, a five-star hotel located in Saigon, Vietnam."
+    },
+    {
+      "Question": "How do you know that hotel?",
+      "Answer": "Before coming to Vietnam for traveling, I searched on the Internet. It’s one of the best hotels in Vietnam."
+    },
+    {
+      "Question": "Why do you choose to stay in that particular hotel?",
+      "Answer": "I like the architecture there, and online all the reviews about the hotel are positive."
+    },
+    {
+      "Question": "Is it by the beach?",
+      "Answer": "No, Saigon is not a beach-side city."
+    },
+    {
+      "Question": "Does it attract many tourists?",
+      "Answer": "Yes, I guess. When I stayed there, it was completely booked."
+    },
+    {
+      "Question": "What type of room did you stay in and what facilities did you get from the hotel?",
+      "Answer": "I stayed in a double-bed room. The room is equipped with air-conditioner, a flat-screen TV, wardrobe, etc."
+    },
+    {
+      "Question": "What do you like about that hotel?",
+      "Answer": "A gymnasium, swimming pool, and BBQ area are available. I also love the green space surrounding the hotel."
+    },
+    {
+      "Question": "Are all the staff friendly and helpful?",
+      "Answer": "Yes, definitely. They all are professional."
+    },
+    {
+      "Question": "How much does it cost a night?",
+      "Answer": "It costs me around $250/night."
+    },
+    {
+      "Question": "Do you recommend that hotel to friends?",
+      "Answer": "Yes, if they come to Vietnam. I love everything there."
+    },
+    {
+      "Question": "Who wrote the letter to you?",
+      "Answer": "My dad wrote the letter to me when he was on a business trip."
+    },
+    {
+      "Question": "Did you keep the letter?",
+      "Answer": "Yes, I put it in a folder. Whenever I’m down, reading his letter would be a good way to cheer me up."
+    },
+    {
+      "Question": "What was the letter about?",
+      "Answer": "He told me about his new workplace and how things were there."
+    },
+    {
+      "Question": "How did you feel about the letter?",
+      "Answer": "I was glad to know that he was fine in another city."
+    },
+    {
+      "Question": "Do you have a letter collection?",
+      "Answer": "Yes. I collect all the letters from family and friends. It’s one of my hobbies."
+    },
+    {
+      "Question": "Do you like writing letters or emails?",
+      "Answer": "I prefer writing paper letters."
+    },
+    {
+      "Question": "Do people in your country usually write letters?",
+      "Answer": "Years ago they did. Now people prefer emails."
+    },
+    {
+      "Question": "What’s the difference between emails and hand-written letters?",
+      "Answer": "Emails are much more convenient than letters because they’re free to send and they get there instantly. However, letters are much more special."
+    },
+    {
+      "Question": "Why should we write letters to friends or relatives?",
+      "Answer": "It’s a good way to show love to people you care about."
+    },
+    {
+      "Question": "What is your hobby?",
+      "Answer": "I like playing sports, especially swimming."
+    },
+    {
+      "Question": "Is your hobby common in your country?",
+      "Answer": "Yes, kids, adults, and senior citizens all like swimming in my country."
+    },
+    {
+      "Question": "Is your hobby the same as when you were a child?",
+      "Answer": "Yes, I was fond of swimming when I was a little girl."
+    },
+    {
+      "Question": "When did you start practicing that hobby?",
+      "Answer": "I started swimming when I was 5 years old."
+    },
+    {
+      "Question": "Is there anybody in your family who you share your hobby with?",
+      "Answer": "My dad, he taught me how to swim."
+    },
+    {
+      "Question": "How much time do you spend on your hobby?",
+      "Answer": "I usually go to the swimming pool twice a week."
+    },
+    {
+      "Question": "What benefits do you get from it?",
+      "Answer": "Swimming is a really good workout. It helps me keep fit and chill out after a long day working."
+    },
+    {
+      "Question": "Have you ever heard of someone having a very unusual hobby? What was it?",
+      "Answer": "Yes, my cousin loves tattooing vehicles. He puts stickers everywhere on his car."
+    },
+    {
+      "Question": "What do you think about someone having weird hobbies?",
+      "Answer": "I don’t think any hobby is weird. It’s just what you like to do, so I don’t judge others."
+    },
+    {
+      "Question": "What hobbies are usually expensive in your country?",
+      "Answer": "Playing golf is a really expensive hobby. Only the rich can afford to buy golf supplies."
+    }
+  ]
+}
